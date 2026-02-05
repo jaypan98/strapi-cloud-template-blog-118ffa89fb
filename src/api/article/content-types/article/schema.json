@@ -56,6 +56,11 @@
     },
     "JSON": {
       "type": "json"
+    },
+    "SEO": {
+      "type": "component",
+      "component": "shared.seo",
+      "repeatable": true
     }
   }
 }
